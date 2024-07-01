@@ -1,0 +1,306 @@
+.TapingList-container{
+    .spaceBox{
+        background: #FFF;
+        width: 100%;
+        height: 200px;
+        position: fixed;
+        top: 0px;
+        left: 0;
+        z-index: 10;
+    }
+    .Sources{
+        color: rgba(#CCC, .7);
+        font-size: .8em;
+        margin-bottom: 20px;
+        a{
+            color: rgba(#CCC, .7);
+            &:hover{
+                color: #000;
+            }
+        }
+    }
+    height: auto;
+    padding-top: 250px;
+    margin-bottom: 150px;
+    .taping_card_container{
+        position: relative;
+        margin: 0 auto;
+        height: 250px;
+        width: 70%;
+        padding: 10px;
+        animation: container-embed-open 1s linear;
+        margin-bottom: 50px;
+        &.active{
+            height: 565px;
+            animation: container-embed-close 1s linear;
+        }
+        @keyframes container-embed-open{
+            from { height: 565px; }
+            to { height: 250px; }
+        }
+        @keyframes container-embed-close{
+            from { height: 250px; }
+            to { height: 565px; }
+        }
+        .taping_card{
+            width: 200px;
+            height: 230px;
+            border-radius: 10px 0 0 10px;
+            box-shadow: 0 0 10px #CCC;
+            background-size: 100% 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+        }        
+        .spread_card{
+            position: absolute;
+            width: 35px;
+            left: 210px;
+            top: 10px;
+            height: 230px;
+            background: rgba(0, 0, 0, .5);
+            color: #FFF;
+            display: flex;
+            align-items: center;
+            border-radius: 0 20px 20px 0;
+            cursor: pointer;
+            animation: card-close-button 1s linear;
+            svg{
+                font-size: 3em;
+            }
+            &.active{
+                left: 675px;
+                z-index: 10;
+                animation: card-open-button 1s linear;
+            }
+            @keyframes card-close-button{
+                from { left: 675px; }
+                to { left: 210px; }
+            }
+            @keyframes card-open-button{
+                from { left: 210px; }
+                to { left: 675px; }
+            }
+        }
+        .taping_card_content{
+            overflow: hidden;
+            position: absolute;
+            top: 10px;
+            left: 210px;
+            height: 230px;
+            padding: 10px;
+            text-align: left;
+            letter-spacing: 1px;
+            font-size: .8em;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            justify-content: center;
+            background: rgba(0, 0, 0, .5);
+            color: #FFF;
+            border-radius: 0 20px 20px 0;
+            width: 0px;
+            visibility: hidden;
+            opacity: 0;
+            animation: card-close 1s linear;
+            li{
+                list-style: none;
+            }
+            div{
+                margin-bottom: 15px;
+                width: 400px;
+            }
+            .taping_card_title{
+                font-size: 1.5em;
+                font-weight: bold;
+            }
+            .taping_card_material{
+                font-size: 1.2em;
+            }
+            .taping_card_text{
+                font-size: .9em;
+                border-top: 2px dotted #FFF;
+                border-bottom: 2px dotted #FFF;
+                padding-top: 7px;
+                padding-bottom: 7px;
+            }
+            .taping_card_video{
+                text-decoration: underline;
+                cursor: pointer;
+                font-size: 1.2em;
+            }
+            &.active{
+                width: 500px;
+                visibility: visible;
+                opacity: 1;
+                animation: card-open 1s linear;
+            }
+            @keyframes card-close{
+                from { width: 500px; visibility: visible; opacity: 1; }
+                to { width: 0px; visibility: hidden; opacity: 0; }
+            }
+            @keyframes card-open{
+                from { width: 0px; visibility: hidden; opacity: 0; }
+                to { width: 500px; visibility: visible; opacity: 1; }
+            }
+        }
+        .embed{
+            width: 700px;
+            margin: 5px auto;
+            padding: 10px;
+            height: 0px;
+            visibility: hidden;
+            opacity: 0;
+            animation: embed-close 1s linear;
+            iframe{
+                width: 560px;
+                height: 0;
+                opacity: 0;
+                animation: embed-close 1s linear;
+                visibility: hidden;
+                &.active{
+                    height: 315px;
+                    opacity: 1;
+                    animation: embed-open 1s linear;
+                    visibility: visible;
+                }
+            }
+            &.active{
+                visibility: visible;
+                height: 315px;
+                opacity: 1;
+                animation: embed-open 1s linear;
+            }
+            @keyframes embed-close{
+                from { height: 315px; opacity: 1; visibility: visible;}
+                to { height: 0px; opacity: 0; visibility: hidden;}
+            }
+            @keyframes embed-open{
+                from { height: 0px; opacity: 0; visibility: hidden;}
+                to { height: 315px; opacity: 1; visibility: visible;}
+            }
+        }
+    }
+}
+
+
+
+///////////////////////////////////////////////////////
+
+.TapingTab-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    position: fixed;
+    top: 100px;
+    background: #FFF;
+    z-index: 11;
+    .tapingTab-item{
+        padding: 10px;
+        cursor: pointer;
+        transition: all 1s ease-in-out;
+        &:hover{
+            transform: scale(1.2) rotate(360deg);
+        }
+        h3{
+            color: rgba(0, 0, 0, .5);
+            font-size: 1em;
+            letter-spacing: 1px;
+        }
+        svg{
+            font-size: 2em;
+            color: rgba(0, 0, 0, .5);
+        }
+        &.active{
+            cursor: default;
+            transition: none;
+            animation: tabActive 1s ease-in-out;
+            &:hover{
+                transform: none;
+            }
+            svg{
+                font-size: 3em;
+                color: #000;
+            }
+            h3{
+                color: #000;
+                font-size: 1.3em;
+                margin-top: 10px;
+                text-decoration: underline;
+            }
+        }
+        @keyframes tabActive {
+            from { transform: rotate(360deg);}
+            to { transform: rotate(0deg);}
+        }
+        &:not(:last-child){
+            margin-right: 50px;
+        }
+    }
+    &::after{
+        content: "";
+        border-bottom: 10px double rgba(0, 0, 0, .5);
+        width: 70%;
+        position: absolute;
+        bottom: -20px;
+    }
+}
+
+
+// responsive
+
+@media (max-width: 767px){
+    .TapingList-container .taping_card_container .taping_card_content.active{
+        position: static;
+        width: 280px;
+    }
+    .TapingList-container .taping_card_container .spread_card{
+        animation: none;
+        left: 260px;
+        &.active{
+            animation: none;
+            left: 260px;
+        }
+    }
+    .TapingList-container .taping_card_container{
+        margin-bottom: 300px;
+        width: 280px;
+        .taping_card{
+            width: 250px;
+            height: 230px;
+        }
+    }
+    .TapingList-container .taping_card_container .taping_card_content{
+        height: auto;
+        border-radius: 20px;
+        @keyframes card-close{
+            from { opacity: 1; }
+            to { opacity: 0; }
+        }
+    }
+    .TapingList-container .taping_card_container .taping_card_content.active{
+        @keyframes card-open {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        };
+    }
+    .TapingList-container .taping_card_container .taping_card_content div{
+        width: 250px;
+    }
+    .TapingList-container .taping_card_container .embed{
+        width: 280px;
+        animation: none;
+        &.active{
+            animation: none;
+        }
+    }
+    .TapingList-container .taping_card_container .embed iframe{
+        width: 250px;
+        height: 200px;
+        animation: none;
+        &.active{
+            height: 200px;
+            animation: none;
+        }
+    }
+}
