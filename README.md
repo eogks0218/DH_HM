@@ -1,70 +1,145 @@
-# Getting Started with Create React App
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DHHM&fontSize=70" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 건강관리 웹사이트 👨‍⚕️
 
-## Available Scripts
+><b>사이트 이동</b> : <a href="https://eogks0218.github.io/DH_HM/">💪 DHHM</a>
 
-In the project directory, you can run:
+## 📌목차
 
-### `yarn start`
+▪ [📂 프로젝트 구성](#프로젝트-구성)  
+▪ [📺 페이지 설명](#페이지-설명)  
+▪ [😔 아쉬운점](#아쉬운점)  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `yarn test`
+## 📂프로젝트 구성
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src="https://github.com/eogks0218/DH_HM/assets/160206306/4cbdca80-e0d2-40e9-91c7-3978ead57307" />
 
-### `yarn build`
+<div align="right">
+  
+[목차로](#목차)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+</div>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+##  📺페이지 설명
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### `Main`
 
-### `yarn eject`
+<img src="https://github.com/eogks0218/DH_HM/assets/160206306/fa3aced2-1919-4c91-a3d4-db02582bb233" width="250px" height="200px" />
+<img src="https://github.com/eogks0218/DH_HM/assets/160206306/cc129c28-6cc0-44c7-b284-1faf041b6f72" width="250px" height="200px" />
+<img src="https://github.com/eogks0218/DH_HM/assets/160206306/7f54bc49-c338-48e8-abdd-280a15e8e99f" width="250px" height="200px" />
+<br />
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<ul>
+  <li>메인페이지</li>
+  <li>웹사이트 설명</li>
+  <li>각 메뉴로 이동 기능</li>
+</ul>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<br />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### `CommonSense`
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<img src="https://github.com/eogks0218/DH_HM/assets/160206306/94c449b3-4a6d-45a2-b48c-81685f80f769" width="350px" height="300px" />
+<img src="https://github.com/eogks0218/DH_HM/assets/160206306/58d9a87f-7a8f-43b5-ba71-42743b3ba2ef" width="350px" height="300px" />
+<br />
 
-## Learn More
+<ul>
+  <li>건강상식 페이지</li>
+  <li>탭 이용 카테고리 선택 가능</li>
+  <li>카테고리에 맞는 리스트 출력 후 ➡로 정보 토글</li>
+</ul>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br />
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### `Taping`
 
-### Code Splitting
+<img src="https://github.com/eogks0218/DH_HM/assets/160206306/49194923-8159-42d6-b381-84909d623aca" width="250px" height="200px" />
+<img src="https://github.com/eogks0218/DH_HM/assets/160206306/cccf9ea5-6c36-4a0b-b19f-bb1211d66514" width="250px" height="200px" />
+<img src="https://github.com/eogks0218/DH_HM/assets/160206306/e4b89cb8-a9db-437a-8035-a6dd0fb86092" width="250px" height="200px" />
+<br />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<ul>
+  <li>테이핑 페이지</li>
+  <li>탭 이용 카테고리 선택 가능</li>
+  <li>정보 토글 및 영상 토글</li>
+</ul>
 
-### Analyzing the Bundle Size
+<br />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### `Massage`
 
-### Making a Progressive Web App
+<img src="https://github.com/eogks0218/DH_HM/assets/160206306/7a5564fc-075f-44bd-807f-e71119c2d007" width="350px" height="300px" />
+<img src="https://github.com/eogks0218/DH_HM/assets/160206306/2a8ba6b7-ce39-43d5-94d2-df657e2bc6e0" width="350px" height="300px" />
+<br />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<ul>
+  <li>마사지 페이지</li>
+  <li>셀렉트 탭 이용 카테고리 선택</li>
+  <li>iframe 사용</li>
+</ul>
 
-### Advanced Configuration
+<br />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### `Rehabilitation`
 
-### Deployment
+<img src="https://github.com/eogks0218/DH_HM/assets/160206306/ffe925c6-f9a6-4ad9-b8ec-d68c84c380da" width="250px" height="200px" />
+<img src="https://github.com/eogks0218/DH_HM/assets/160206306/c0473c17-9ac5-4932-acaa-473930ef9857" width="250px" height="200px" />
+<img src="https://github.com/eogks0218/DH_HM/assets/160206306/946e48f3-afd5-48b9-961a-3041ef590c4f" width="250px" height="200px" />
+<br />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<ul>
+  <li>재활운동 페이지</li>
+  <li>라디오 탭 이용 카테고리 선택</li>
+  <li>서브카테고리 선택 시 해당하는 영상 리스트 출력</li>
+</ul>
 
-### `yarn build` fails to minify
+<br />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### `Header & Footer`
+
+<img src="https://github.com/eogks0218/DH_HM/assets/160206306/289cf323-76c4-40fd-80cb-038809b23e49" width="250px" height="200px" />
+<img src="https://github.com/eogks0218/DH_HM/assets/160206306/379641a8-ee78-45cf-afde-d85d8e420af3" width="250px" height="100px" />
+<img src="https://github.com/eogks0218/DH_HM/assets/160206306/685791a6-a30c-4249-976b-57b40bdccbd3" width="250px" height="100px" />
+<br />
+
+<ul>
+  <li>헤더 & 푸터</li>
+  <li>🔽 클릭 시 스크린의 높이만큼 스크롤 다운</li>
+  <li>아이콘 토글, 각 메뉴로 링크 이동 or Contact 정보, ToTop 스크롤 기능</li>
+</ul>
+
+<br />
+
+<div align="right">
+  
+[목차로](#목차)
+
+</div>
+
+## 😔아쉬운점
+
+### `Rehabilitation 페이지 렉..?`
+
+<ul>
+  <li>괜찮았던 것 같은데 배포하려 하니까 걸리는건가</li>
+  <li>유튜브 영상 불러올 때 문제 같으니 찾아보고 수정 요망 ⭕</li>
+</ul>
+
+### `부족한 반응형`
+
+<ul>
+  <li>그냥 줄이기만 했을 뿐</li>
+</ul>
+
+
+<div align="right">
+  
+[목차로](#목차)
+
+</div>
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" />
