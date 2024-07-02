@@ -7,7 +7,7 @@
         "video_src" : "https://www.youtube.com/embed/Sakhb23K0pk?si=K1odcs2ndyAaznlV",
         "material" : "키네시오 테이프 4, 8, 12칸",
         "content" : "<ul><li>4칸 테이프 : 안쪽 복숭아뼈 위 > 발바닥 > 바깥쪽 복숭아뼈 위</li><li>8칸 테이프 : 발목 > 발바닥 안 > 발바닥 바깥 > 발목 > 발목 뒤 > 발목 앞<li>12칸 테이프 : 발목 > 발 뒤꿈치 > 바깥쪽 복숭아뼈 > 발바닥 바깥 > 발바닥 안 > 발목 앞 > (반대로) > 발 뒤꿈치 > 안쪽 복숭아뼈 > 발바닥 안 > 발바닥 바깥 > 발목 앞</li></ul>",
-        "imageFile" : "/images/TapingL1.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/TapingL1.jpg",
         "date" : "2024-06-28"
     },
     {
@@ -18,7 +18,7 @@
         "video_src" : "https://www.youtube.com/embed/K0qHtP2PIFY?si=yUpGyuv6ln0UHhJX",
         "material" : "키네시오 테이프 8칸",
         "content" : "<ul><li>손등 쪽 손목 관절 라인 중앙 > 당겨주면서 손목 감싸기</li><li>손바닥의 뼈도 같이 고정 할 수 있게 약간 위로 한 번</li></ul>",
-        "imageFile" : "/images/TapingU1.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/TapingU1.jpg",
         "date" : "2024-06-28"
     },
     {
@@ -29,7 +29,7 @@
         "video_src" : "https://www.youtube.com/embed/TK4Z0bqVZXw?si=lFRoA2uRICgEJgrC",
         "material" : "키네시오 테이프 5칸 X 4",
         "content" : "<ul><li>무릎 각도는 30도 유지</li><li>1 : 허벅지 바깥 > 슬개골 바깥쪽 라인</li><li>2 : 1의 반대</li><li>3 : 테이프 가운데를 찢고 > 당기면서 무릎뼈 힘줄 중앙 > 위쪽으로 당기면서 부착</li><li>4 : 3의 반대</li></ul>",
-        "imageFile" : "/images/TapingL2.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/TapingL2.jpg",
         "date" : "2024-07-01"
     },
     {
@@ -40,7 +40,7 @@
         "video_src" : "https://www.youtube.com/embed/Y3jJFrKgH3U?si=FHj84lIM0jafimW8",
         "material" : "키네시오 테이프 4칸",
         "content" : "<ul><li>테이프 1칸 남기고 접기 > 긴 부분 4등분으로 자르기</li><li>발 뒤꿈치 > 4등분 테이프 부분을 발가락 사이사이</li></ul>",
-        "imageFile" : "/images/TapingL3.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/TapingL3.jpg",
         "date" : "2024-07-01"
     },
     {
@@ -51,7 +51,7 @@
         "video_src" : "https://www.youtube.com/embed/c8bKpCWCU-k?si=zml5Zot6W7mhY4I7",
         "material" : "키네시오 테이프 손목~팔꿈치 길이+1칸, 손목 한바퀴 감싸는 길이, 팔꿈치 바로 아래 팔뚝 2/3 길이",
         "content" : "<ul><li>키네시오 테이프 손목~팔꿈치 길이+1칸 : 손등이 위로 가도록 한 뒤 손목을 꺾은 상태 > 손목 > 팔꿈치 바깥쪽 부분</li><li>손목 한바퀴 감싸는 길이 : 손목 고정 > 테이프의 중앙 부분이 손목 부분 > 테이프를 당기며 손목 감싸기</li><li>팔꿈치 바로 아래 팔뚝 2/3 길이 : 전완 부위에 붙힌 뒤 테이프를 당기면서 팔뚝 감싸기</li></ul>",
-        "imageFile" : "/images/TapingU2.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/TapingU2.jpg",
         "date" : "2024-07-01"
     }
 ]

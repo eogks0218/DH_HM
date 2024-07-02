@@ -6,7 +6,7 @@
         "title" : "관절 소리 내면 관절염이 생긴다 ?",
         "content" : "<p>관절을 움직일 때 관절에서 소리가 나는 것은 뼈에 기포가 생기면서 나는 소리로 관절과는 연관성이 없습니다. <br />하지만 일부러 소리를 내는 행동은 좋지 않으므로 가급적 하지 않는 것이 좋습니다.</p>",
         "answer" : "No",
-        "imageFile" : "/images/CommonSenseG1.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseG1.jpg",
         "date" : "2024-06-27"
     },
     {
@@ -16,7 +16,7 @@
         "title" : "어두운 곳에서 책을 읽으면 눈이 나빠진다 ?",
         "content" : "<p>어두운 곳에서 책을 읽는다고 해서 직접적으로 시력이 저하되는 것은 아니지만 어두운 곳에서 책을 읽는 것은 눈을 피로하게 할 수 있어 밝은 곳에서 책을 읽어야 합니다.</p>",
         "answer" : "No",
-        "imageFile" : "/images/CommonSenseG2.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseG2.jpg",
         "date" : "2024-06-27"
     },
     {
@@ -26,7 +26,7 @@
         "title" : "속이 쓰릴 땐 우유를 마시는 게 좋다 ?",
         "content" : "<p>우유는 약알칼리성이어서 일시적으로는 위의 싼 성분을 안정시키는 것 같지만 우유의 단백질 분해를 위해 더 많은 위산이 분비됩니다.<br />위가 안 좋은 경우 우유 섭취를 주의하시는 것이 좋습니다.</p>",
         "answer" : "No",
-        "imageFile" : "/images/CommonSenseG3.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseG3.jpg",
         "date" : "2024-06-27"
     },
     {
@@ -36,7 +36,7 @@
         "title" : "식사 후 먹는 커피는 몸에 좋다 ?",
         "content" : "<p>식사 후 커피를 한 잔 섭취하면 소화는 물론 각성 효과를 주어서 집중력 향상에 매우 큰 도움이 된다고 합니다.<br />하지만 위장 질환이 있는 분들은 주의하셔야겠습니다.</p>",
         "answer" : "Yes",
-        "imageFile" : "/images/CommonSenseG4.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseG4.jpg",
         "date" : "2024-06-27"
     },
     {
@@ -46,7 +46,7 @@
         "title" : "탄산음료 섭취 후 양치질 ?",
         "content" : "<p>탄산음료는 치아를 부식시키기 때문에 탄산음료 섭취 후 바로 양치질을 하게 되면 치아 표면이 손상될 수 있습니다.<br />탄산음료를 마신 후 약 30분 정도 후에 양치질을 하는 것이 좋습니다.</p>",
         "answer" : "No",
-        "imageFile" : "/images/CommonSenseG5.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseG5.jpg",
         "date" : "2024-06-27"
     },
     {
@@ -56,7 +56,7 @@
         "title" : "단 음식을 많이 먹으면 당뇨병이 생긴다 ?",
         "content" : "<p>당뇨병은 인슐린이 분비되지 않거나 그 기능이 저하되어서 생기는 질환입니다.<br />음식을 많이 먹어서 비만이 오고 그러면 당뇨가 발생할 가능성이 높아지는 것은 맞지만, 직접적으로 단 음식이 당뇨를 유발하지는 않습니다.</p>",
         "answer" : "No",
-        "imageFile" : "/images/CommonSenseG6.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseG6.jpg",
         "date" : "2024-06-27"
     },
     {
@@ -66,7 +66,7 @@
         "title" : "아침 공복에 운동해도 될까 ?",
         "content" : "<p>아침 공복 운동은 체지방 연소에 가장 좋은 방법 중 하나다. <br />단, 아침 공복 운동은 30분 정도 유산소운동을 하는 것이 좋으며 운동 후 바로 단백질을 섭취해 근육 손실을 막아줘야 한다.<br />하지만 일부러 단식을 하며 운동을 할 경우 현기증을 유발하고 부상의 위험이 있기 때문에 반드시 피해야 한다.</p>",
         "answer" : "Yes",
-        "imageFile" : "/images/CommonSenseD1.png",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseD1.png",
         "date" : "2024-06-27"
     },
     {
@@ -76,7 +76,7 @@
         "title" : "살을 빼려면 유산소 운동을 해야 할까 ?",
         "content" : "<p>다이어트에 가장 효과적인 방법이 바로 유산소 운동이다.<br />몸속 지방을 태우는 데 꼭 필요한 것이 산소이기 때문에 걷기, 자전거 타기 등 유산소 운동을 통해 1차적으로 지방을 태워야 하는 것이다.<br />단, 유산소 운동만 할 것이 아니라 무산소 운동인 근력 운동은 함께 병행해 근육을 늘리고, 기초대사량을 늘려 살이 잘 빠지는 체질로 변화시켜야 한다.<br />나잇살을 예방하고 체중 감량은 물론 몸매의 라인까지 완벽하게 완성하고 싶다면 반드시 유산소 운동을 하되 무산소 운동의 병행이 필수다.</p>",
         "answer" : "Both",
-        "imageFile" : "/images/CommonSenseD2.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseD2.jpg",
         "date" : "2024-06-27"
     },
     {
@@ -86,7 +86,7 @@
         "title" : "달리기가 걷기보다 효과적일까 ?",
         "content" : "<p>칼로리 소모만 본다면 당연히 달리기가 걷기보다 효과가 크다.<br />하지만 일반인이 달리기를 쉬지 않고 30분 이상 달리기를 할 수는 없다. 특히 달리기는 부상의 위험도 있다.<br />달리기와 걷기를 교대로 반복하거나 걷기를 꾸준히 하는 것이 효과적이다.</p>",
         "answer" : "Both",
-        "imageFile" : "/images/CommonSenseD3.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseD3.jpg",
         "date" : "2024-06-27"
     },
     {
@@ -96,7 +96,7 @@
         "title" : "땀이 잘 나면 건강이 좋지 않다는 뜻이다 ?",
         "content" : "<p>땀은 우리 몸의 온도를 조절하기 위한 장치이다. 운동을 하거나 날씨가 더울 때 등 급격히 상승한 몸의 온도를 36.5℃로 유지하기 위해 땀을 배출시켜 체온을 떨어뜨리는 것.<br />정상적인 몸의 기능을 하는 것이기 때문에 땀이 난다고 해서 건강이 좋지 않다는 뜻은 아니다. 오히려 운동을 하면 할수록 땀이 잘 나는 체질로 변해 노폐물 배출이 원활해진다.</p>",
         "answer" : "No",
-        "imageFile" : "/images/CommonSenseD4.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseD4.jpg",
         "date" : "2024-06-27"
     },
     {
@@ -106,7 +106,7 @@
         "title" : "땀복을 입고 운동하면 살이 더 잘 빠질까 ?",
         "content" : "<p>땀복을 입고 운동하면 땀을 많이 흘려 몸속 수분이 빠져나가 체중이 줄어든다. 하지만 이는 일시적인 현상으로 물 한 잔만 마시면 바로 회복되기 때문에 의미 없는 감량이라고 할 수 있다.<br/>오히려 탈수 증상이 찾아와 건강을 악화시킬 수 있으므로 조심해야 한다. 운동은 가벼운 복장으로 약간 서늘하게 느껴질 정도의 온도에서 하는 것이 좋으며, 운동 전후로 충분한 수분 섭취를 해 몸의 신진대사를 유지시키는 것이 중요하다.</p>",
         "answer" : "No",
-        "imageFile" : "/images/CommonSenseD5.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseD5.jpg",
         "date" : "2024-06-27"
     },
     {
@@ -116,7 +116,7 @@
         "title" : "때를 밀면 피부가 부드러워진다 ?",
         "content" : "<p>각질층은 피부의 가장 바깥 부분으로, 수분을 보호하고 외부의 세균 침투를 막아주는 역할을 합니다. 하지만 때를 세게 밀 경우 피부 장벽을 손상시켜 수분 증발과 피부 건조를 악화시킵니다.<br /> 각질층을 과도하게 제거하면 영양분이 소실되고 정상 피부조직이 뜯겨 나갈 위험이 있으며, 항생물질의 농도도 낮아져 염증 발생 위험도 커집니다.</p>",
         "answer" : "No",
-        "imageFile" : "/images/CommonSenseS1.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseS1.jpg",
         "date" : "2024-06-27"
     },
     {
@@ -126,7 +126,7 @@
         "title" : "미스트는 수분 보충에 도움이 된다 ?",
         "content" : "<p>보통 미스트를 뿌리는 걸로 안심하는 경우가 많은데, 미스트 입자들이 잘 흡수되도록 반드시 두드려줘야 효과를 볼 수 있습니다. 만약 미스트를 뿌린 후 그대로 방치하면, 미스트의 수분과 함께 피부 수분까지 함께 증발돼 건조함이 심해집니다.<br />얼굴과 30cm 정도 거리에서 액체를 분사한 후, 손가락으로 가볍게 두드린 다음 손바닥으로 피부를 감싸 흡수시키는 것이 바람직합니다.</p>",
         "answer" : "Yes",
-        "imageFile" : "/images/CommonSenseS2.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseS2.jpg",
         "date" : "2024-06-27"
     },
     {
@@ -136,7 +136,7 @@
         "title" : "흐린 날에는 자외선 차단제를 바르지 않아도 된다 ?",
         "content" : "<p>날씨가 흐리다고 자외선이 존재하지 않는 것이 아닙니다. 자외선은 눈에 보이지 않더라도 사계절 내내 비슷한 세기로 전해지며, 체내에서 비타민 D를 합성하고 살균작용을 하는 등 이로운 역할을 합니다. <br />하지만 자외선에 지나치게 노출 될 경우 피부 노화를 일으키는 것은 물론 심할 경우 피부암을 유발할 수도 있습니다. <br />따라서 날씨와 상관없이 자외선 차단제를 바르는 것이 좋습니다. 꾸준히 자외선 차단제를 사용하는 것만으로도 기미, 주근깨, 검버섯 등 색소 침착을 예방할 수 있습니다.</p>",
         "answer" : "No",
-        "imageFile" : "/images/CommonSenseS3.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseS3.jpg",
         "date" : "2024-06-27"
     },
     {
@@ -146,7 +146,7 @@
         "title" : "피부 건강을 위해 지나친 냉난방을 피해야 한다 ?",
         "content" : "<p>피부는 체온보다 4~5℃ 낮은 31℃가 정상이지만 차가운 공기, 혹은 난방장치에 노출되면 수분이 증발돼 건조해지기 십상입니다. 특히 실내외 온도차가 8℃ 이상이면 피부는 적응력을 잃게 됩니다.<br/>때문에 급격한 온도 차이가 나지 않도록 항상 신경 써 조절하도록 합니다. 평균적으로 실내 온도는 26℃, 습도는 50% 정도로 유지하는 것이 적당합니다.</p>",
         "answer" : "No",
-        "imageFile" : "/images/CommonSenseS4.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseS4.jpg",
         "date" : "2024-06-27"
     },
     {
@@ -156,7 +156,7 @@
         "title" : "비듬이 심할 때 샴푸를 사용하면 증상이 악화된다 ?",
         "content" : "<p>비듬이 생기는 원인은 다양하지만 그 중 가장 흔한 것이 지루성 피부염으로, 두피에 각질이 심하게 일어난 경우가 바로 비듬입니다. 때문에 비듬과 샴푸는 아무런 연관이 없습니다.<br />오히려 머리를 감아 기름기를 잘 제거해주어야 비듬을 없앨 수 있습니다. 머리를 감을 때는 두피 자극을 최소화할 수 있도록 손끝으로 부드럽게 마사지하고, 충분히 행구는 것이 중요합니다.<br/>샴푸가 남아 있을 경우 습진을 유발시키고, 오히려 비듬이 더 많이 생길 위험이 있습니다.</p>",
         "answer" : "No",
-        "imageFile" : "/images/CommonSenseS5.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseS5.jpg",
         "date" : "2024-06-27"
     },
     {
@@ -166,7 +166,7 @@
         "title" : "통증이 있어야 효과가 있다 ?",
         "content" : "<p>통증은 뭔가 잘못됐다는 것을 말하는 신체의 신호다. 운동을 왕성하게 한 뒤 느껴지는 근육통 등은 괜찮을 수도 있다. 하지만 운동하는 동안 큰 통증을 느껴서는 안된다.<br/>이를 무시하고 계속 운동하면 심각한 부상을 입을 수도 있다. 전문 트레이너 등 전문가와의 상담을 통해 운동 자세나 방법에 문제가 없는지 점검해 볼 필요가 있다.</p>",
         "answer" : "No",
-        "imageFile" : "/images/CommonSenseE1.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseE1.jpg",
         "date" : "2024-06-27"
     },
     {
@@ -176,7 +176,7 @@
         "title" : "복부운동을 집중적으로 하면 뱃살이 빠지고 복근이 생긴다 ?",
         "content" : "<p>뱃살을 빼고 복근을 만드는 데 크런치 같은 복부운동이 큰 도움이 된다고 알고 있는 사람이 많다. 하지만 이는 틀린 상식이다.<br/>크런치나 윗몸 일으키기가 복부 근육을 강화시키는 것은 사실이지만 없던 복근을 만들지는 못한다. 그 이유는 칼로리를 소모하거나 지방을 태우지 못하기 때문이다.<br/>이런 복부 중심 운동만 할 게 아니라 보다 활기찬 전신 운동을 하는 게 칼로리를 태우고 근육을 형성하는 데 도움이 된다. 또한 복부지방이 빠져야 복근도 드러난다. 복부 강화 운동은 팔굽혀 펴기와 비슷한 플랭크 운동을 해도 효과가 있다.</p>",
         "answer" : "No",
-        "imageFile" : "/images/CommonSenseE2.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseE2.jpg",
         "date" : "2024-06-27"
     },
     {
@@ -186,7 +186,7 @@
         "title" : "유산소 운동은 최소 30분 이상 해야 지방이 탄다 ?",
         "content" : "<p>많은 사람들이 유산소 운동을 시작하고 30분까지는 탄수화물로 만들어진 에너지가 연소된 뒤 30분 이상이 지난 후에 지방이 타는 것으로 아는 경우가 많다. 하지만 운동을 시작하면 탄수화물과 지방이 같이 연소된다.<br/>물론 운동 후 30분이 지난 순간부터 탄수화물 에너지가 사라지고 몸에서 열이 발생함으로 인해 지방이 더욱 잘 타는 것은 사실이지만 그 전에도 지방은 이미 연소되고 있었다는 것을 잊지 말자.</p>",
         "answer" : "No",
-        "imageFile" : "/images/CommonSenseE3.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseE3.jpg",
         "date" : "2024-06-27"
     },
     {
@@ -196,7 +196,7 @@
         "title" : "운동 중 단백질 섭취, 많을수록 좋다 ?",
         "content" : "<p>탄수화물은 줄이고 단백질의 비중을 높이는 식단이 전형적인 다이어트 식단으로 잘 알려져 있다. 여기에 근육을 강화시키려는 이들에게 단백질 섭취를 더 강요하는 트레이너도 종종 있지만 이는 잘못된 상식.<br />과유불급이라는 말이 있듯이 아무리 좋은 단백질이라고 해도 과하게 섭취할 경우 신장 질환 발병, 탈수 현상 등과 같은 부작용이 나타날 수 있어 주의해야 한다.<br/>근육 손실을 줄이고 근육을 늘리기 위해서 하루에 5~10g 정도의 단백질만 섭취하면 된다.</p>",
         "answer" : "No",
-        "imageFile" : "/images/CommonSenseE4.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseE4.jpg",
         "date" : "2024-06-27"
     },
     {
@@ -206,7 +206,7 @@
         "title" : "지나친 근력운동, 여성에게 좋지 않다 ?",
         "content" : "<p>간혹 여성들이 근력운동을 피하는 이유 중 하나가 근육 펌핑으로 인해 몸이 근육질로 변하는 것을 염려해서다. 하지만 여성이 근력운동을 한다고 해서 남성처럼 쉽게 몸이 우람해지지는 않는다. 오히려 근력운동을 통해 라인이 정리되어 몸이 더욱 날씬해지고 탄탄해질 뿐만 아니라 신진대사가 원활해지고 체력이 증가된다.<br/>여자의 경우 남자와 달리 테스토스테론 수치가 낮고 근섬유가 적기 때문에 근육질이 되지 않는 것. 고강도의 운동을 하루 종일 하는 여자 운동선수가 아니라면, 근육질에 대한 걱정은 접어둬도 좋다.</p>",
         "answer" : "No",
-        "imageFile" : "/images/CommonSenseE5.jpg",
+        "imageFile" : "https://eogks0218.github.io/DH_HM/images/CommonSenseE5.jpg",
         "date" : "2024-06-27"
     }
 ]
