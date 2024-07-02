@@ -70,53 +70,11 @@
         "youtubeSrc" : "https://www.youtube.com/embed/Kuh_oiluDfs?si=Y11J10xW6SmBcgKM"
     },
     {
-        "id" : 11,
-        "userName" : "admin",
-        "category" : "Lower",
-        "subcategory" : "고관절",
-        "youtubeSrc" : "https://www.youtube.com/embed/pYzb6AtPGV0?si=vVdIcESNFB1zxaP1"
-    },
-    {
-        "id" : 12,
-        "userName" : "user",
-        "category" : "Lower",
-        "subcategory" : "고관절",
-        "youtubeSrc" : "https://www.youtube.com/embed/S03Yq46QMWE?si=GARHmfy64Jp4e8l9"
-    },
-    {
         "id" : 13,
         "userName" : "admin",
         "category" : "Lower",
         "subcategory" : "고관절",
         "youtubeSrc" : "https://www.youtube.com/embed/gdYFun3aFOM?si=gRvG8T9PSk6m8jxy"
-    },
-    {
-        "id" : 14,
-        "userName" : "user",
-        "category" : "Lower",
-        "subcategory" : "고관절",
-        "youtubeSrc" : "https://www.youtube.com/embed/aizomJnEzvQ?si=XITql_I1cQCvfUIT"
-    },
-    {
-        "id" : 15,
-        "userName" : "admin",
-        "category" : "Upper",
-        "subcategory" : "어깨",
-        "youtubeSrc" : "https://www.youtube.com/embed/kTUIkh03h40?si=_-lgZLGJNOSGY7T9"
-    },
-    {
-        "id" : 16,
-        "userName" : "user",
-        "category" : "Upper",
-        "subcategory" : "어깨",
-        "youtubeSrc" : "https://www.youtube.com/embed/z8uty6po2aE?si=RuCoUKiDpph7mY7G"
-    },
-    {
-        "id" : 17,
-        "userName" : "admin",
-        "category" : "Upper",
-        "subcategory" : "어깨",
-        "youtubeSrc" : "https://www.youtube.com/embed/fdIKrCChU_U?si=vVf-J7V8lDrZmzYf"
     },
     {
         "id" : 18,
@@ -138,13 +96,6 @@
         "category" : "Upper",
         "subcategory" : "어깨",
         "youtubeSrc" : "https://www.youtube.com/embed/3MHpFXmxM08?si=lwYHEGk6QUxIlIXo"
-    },
-    {
-        "id" : 21,
-        "userName" : "admin",
-        "category" : "Upper",
-        "subcategory" : "어깨",
-        "youtubeSrc" : "https://www.youtube.com/embed/jGOst28d05M?si=tQMY8BW2_uQFGHmz"
     },
     {
         "id" : 22,
